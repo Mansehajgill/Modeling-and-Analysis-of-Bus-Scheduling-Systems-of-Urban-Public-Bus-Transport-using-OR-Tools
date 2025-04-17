@@ -97,6 +97,12 @@ The model outputs a structured schedule that shows:
 
 ![Screenshot 2025-04-13 220531](https://github.com/user-attachments/assets/857c6620-705a-4952-a71f-0bb2b6c1c8ec)
 
+![Screenshot 2025-03-22 163157](https://github.com/user-attachments/assets/cc6b109e-4d83-4d14-a168-095c14047244)
+![Screenshot 2025-03-22 163525](https://github.com/user-attachments/assets/cd9d7b97-57d6-49ec-8a7d-0ee84a411a2b)
+![Screenshot 2025-03-22 163538](https://github.com/user-attachments/assets/4657b07d-9128-4989-9caf-bebde39f0e56)
+
+
+
 ## 📚 Reference
 "An Optimization Model for Urban Bus Scheduling"
 This project extends the concepts from the original paper by integrating constraints and metrics that are essential for real-world decision-making.
