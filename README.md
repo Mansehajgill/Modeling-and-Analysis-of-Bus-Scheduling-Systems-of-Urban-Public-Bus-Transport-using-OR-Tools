@@ -95,12 +95,13 @@ The model outputs a structured schedule that shows:
 
 📆 Fleet usage summary for each shift
 
-![Screenshot 2025-04-13 220531](https://github.com/user-attachments/assets/857c6620-705a-4952-a71f-0bb2b6c1c8ec)
+<img src="./Screenshots/OptimalOutput.png" width=70% height=50%>
 
-![Screenshot 2025-03-22 163157](https://github.com/user-attachments/assets/cc6b109e-4d83-4d14-a168-095c14047244)
-![Screenshot 2025-03-22 163525](https://github.com/user-attachments/assets/cd9d7b97-57d6-49ec-8a7d-0ee84a411a2b)
-![Screenshot 2025-03-22 163538](https://github.com/user-attachments/assets/4657b07d-9128-4989-9caf-bebde39f0e56)
-
+<img src="./Screenshots/TotalDistanceByRoute.png" width=80% height=60%>
+<img src="./Screenshots/TotalDistanceByShift.png" width=80% height=40%>
+<img src="./Screenshots/Total_trips_By_Route.png" width=80% height=60%>
+<img src="./Screenshots/Type1BusesByShift.png" width=80% height=40%>
+<img src="./Screenshots/Type2BusesByShift.png" width=80% height=40%>
 
 
 ## 📚 Reference
